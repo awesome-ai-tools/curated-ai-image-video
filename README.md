@@ -145,6 +145,7 @@ AI models and platforms for creating images from text descriptions or other inpu
 | **[Playground AI](https://playground.com)** | AI image generation and editing platform with mixed image editing, canvas workflow, and community sharing. | Free tier + from $15/mo | [Website](https://playground.com) |
 | **[Krea AI](https://www.krea.ai)** | Real-time AI image generation and enhancement with upscaling, visual search, and AI-trained pattern generation. | Free tier + from $24/mo | [Website](https://www.krea.ai) |
 | **[NightCafe](https://nightcafe.studio)** | AI art generation platform with multiple AI models (SDXL, DALL-E, Stable Diffusion) and community features. | Free credits + from $5.99/mo | [Website](https://nightcafe.studio) |
+| **[Seedream AI Studio](https://seedream4.video/)** | Multi-model platform with ByteDance Seedream 5.0/4.5/4.0 — ranked #1 in AI Image Arena. Supports up to 10 reference images for style fusion, one-click image-to-video via Kling 2.1. | Free tier + paid plans | [Website](https://seedream4.video/) |
 
 ## Image Editing
 
