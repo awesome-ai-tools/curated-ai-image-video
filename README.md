@@ -144,6 +144,7 @@ AI models and platforms for creating images from text descriptions or other inpu
 | **[Recraft V3](https://www.recraft.ai)** | Professional-grade AI image generation with fine control over style, brand consistency, and vector graphics output. | Free tier + paid plans | [API](https://www.recraft.ai/docs) |
 | **[Playground AI](https://playground.com)** | AI image generation and editing platform with mixed image editing, canvas workflow, and community sharing. | Free tier + from $15/mo | [Website](https://playground.com) |
 | **[Krea AI](https://www.krea.ai)** | Real-time AI image generation and enhancement with upscaling, visual search, and AI-trained pattern generation. | Free tier + from $24/mo | [Website](https://www.krea.ai) |
+| **[GPT Image 2](https://gptimage2.asia/)** | Generate and edit production-ready AI images for marketing, ecommerce, social media, and branded content. | Free tier + paid plans | [Website](https://gptimage2.asia/) |
 | **[NightCafe](https://nightcafe.studio)** | AI art generation platform with multiple AI models (SDXL, DALL-E, Stable Diffusion) and community features. | Free credits + from $5.99/mo | [Website](https://nightcafe.studio) |
 
 ## Image Editing
