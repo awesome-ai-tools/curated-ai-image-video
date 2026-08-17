@@ -145,6 +145,7 @@ AI models and platforms for creating images from text descriptions or other inpu
 | **[Playground AI](https://playground.com)** | AI image generation and editing platform with mixed image editing, canvas workflow, and community sharing. | Free tier + from $15/mo | [Website](https://playground.com) |
 | **[Krea AI](https://www.krea.ai)** | Real-time AI image generation and enhancement with upscaling, visual search, and AI-trained pattern generation. | Free tier + from $24/mo | [Website](https://www.krea.ai) |
 | **[NightCafe](https://nightcafe.studio)** | AI art generation platform with multiple AI models (SDXL, DALL-E, Stable Diffusion) and community features. | Free credits + from $5.99/mo | [Website](https://nightcafe.studio) |
+| **[MuAPI](https://muapi.ai)** | Unified API for image, video, and audio generation across multiple AI models, with one API surface for generative-media workflows. | Pay per generation | [Docs](https://api.muapi.ai/docs) &bull; [Pricing](https://muapi.ai/pricing) |
 
 ## Image Editing
 
