@@ -97,6 +97,7 @@ Tools for generating videos from text, images, or other inputs using AI.
 |------|-------------|---------|-------|
 | **[Sora](https://openai.com/sora)** | OpenAI's text-to-video and image-to-video model. Generates realistic and imaginative scenes from text instructions up to 1080p resolution. | Included with ChatGPT Plus/Pro | [Blog](https://openai.com/index/sora/) |
 | **[Runway Gen-3 Alpha](https://runwayml.com)** | State-of-the-art video generation with fine-grained temporal control, text-to-video, and image-to-video capabilities. | Free tier + paid plans from $12/mo | [Docs](https://docs.runwayml.com/) &bull; [Research](https://research.runwayml.com/) |
+| **[SEELE TV](https://seele.tv/)** | Cinematic AI video studio with scene consistency and shot-level camera control. | See site | [Website](https://seele.tv/) |
 | **[Kling AI](https://klingai.com)** | Kuaishou's advanced text-to-video and image-to-video model producing high-quality cinematic clips up to 2 minutes. | Free tier available | [Demo](https://klingai.com) |
 | **[Pika](https://pika.art)** | Creative AI video platform for generating and editing videos from text and images with style control. | Free tier + Pika Pro from $8/mo | [Discord](https://discord.gg/pika) |
 | **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** | Fast, high-quality video generation from text and images with realistic physics and motion. | Free tier + paid plans | [API](https://docs.lumalabs.ai/) |
