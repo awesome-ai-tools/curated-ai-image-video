@@ -205,6 +205,7 @@ AI tools for creating 3D models, scenes, and animations.
 | **[Meshy](https://www.meshy.ai)** | AI 3D model generation from text or images with automatic texturing, supporting multiple export formats. | Free tier + from $16/mo | [API](https://docs.meshy.ai/) |
 | **[Tripo AI](https://www.tripo3d.ai)** | Fast AI-powered 3D model generation from text or single images with high-quality mesh output. | Free tier + from $9.90/mo | [Website](https://www.tripo3d.ai) |
 | **[Luma Genie](https://lumalabs.ai/genie)** | Text-to-3D generation using Luma's neural radiance fields, creating detailed 3D assets from descriptions. | Via Luma platform | [Website](https://lumalabs.ai/genie) |
+| **[Luphra](https://www.luphra.com)** | Prompt-to-3D platform that turns text prompts and sketches into editable 3D models and manufactured physical products. | Free tier | [Website](https://www.luphra.com) |
 | **[Point-E](https://github.com/openai/point-e)** | OpenAI's open-source system for generating 3D point clouds from text prompts efficiently. | Free (open source) | [GitHub](https://github.com/openai/point-e) &bull; [Paper](https://arxiv.org/abs/2212.08751) |
 | **[Shap-E](https://github.com/openai/shap-e)** | OpenAI's open-source model for generating 3D objects conditioned on text or images with implicit representations. | Free (open source) | [GitHub](https://github.com/openai/shap-e) &bull; [Paper](https://arxiv.org/abs/2305.02463) |
 | **[Spline AI](https://spline.design)** | 3D design tool with AI-powered generation, texturing, and animation for web and app experiences. | Free tier + from $7/mo | [Website](https://spline.design) |
@@ -245,6 +246,7 @@ AI tools for improving image and video quality, resolution, and detail.
 
 > New tools and updates added in 2026:
 
+- **Luphra** - Prompt-to-3D that turns prompts and sketches into editable models and manufactured products ([website](https://www.luphra.com))
 - **Ssemble MCP Server** - Programmatic AI video clipping via Model Context Protocol ([npm](https://www.npmjs.com/package/@ssemble/mcp-server))
 - **FLUX.1 Kontext** - Black Forest Labs' latest model for text-guided image editing and generation
 - **Veo 2** - Google DeepMind's video generation model with 1080p output
