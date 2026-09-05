@@ -238,6 +238,7 @@ AI tools for improving image and video quality, resolution, and detail.
 | **[Magnific AI](https://magnific.ai)** | AI upscaler that reimagines and adds photorealistic detail when upscaling images by up to 16x. | From $39/mo | [Website](https://magnific.ai) |
 | **[Upscayl](https://upscayl.org)** | Free and open-source AI image upscaler built with Linux-first philosophy, available on all platforms. | Free (open source) | [GitHub](https://github.com/upscayl/upscayl) |
 | **[Waifu2x](https://github.com/nagadomi/waifu2x)** | Classic open-source neural network for anime-style image super-resolution and noise reduction. | Free (open source) | [GitHub](https://github.com/nagadomi/waifu2x) |
+| **[TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter)** | Free open-source anime video toolkit: AI upscale, RIFE interpolation and restore in one pass, with After Effects integration. | Free (open source, AGPL-3.0) | [GitHub](https://github.com/NevermindNilas/TheAnimeScripter) &bull; [Website](https://tas.nevermindnilas.dev) |
 
 ---
 
