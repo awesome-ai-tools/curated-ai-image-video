@@ -161,6 +161,8 @@ AI-powered tools for editing, enhancing, and manipulating existing images.
 | **[Pixlr](https://pixlr.com)** | Online photo editor with AI-powered tools including background removal, object removal, and batch editing. | Free tier + from $4.90/mo | [Website](https://pixlr.com) |
 | **[Luminar Neo](https://skylum.com/luminar)** | AI-powered photo editor with sky replacement, portrait retouching, object removal, and generative AI tools. | From $9.95/mo | [Website](https://skylum.com/luminar) |
 
+| **[Stunna](https://stunna-app.com/)** | iOS and Android photo editor that uses AI to apply camera-inspired looks and lighting edits to existing photos, with pose guides and free browser filters. | Free download + optional Pro subscription | [Free browser tools](https://stunna-app.com/tools) |
+
 ## Open Source Models
 
 Free and open-source AI models for image and video generation that you can run locally or self-host.
