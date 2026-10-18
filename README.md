@@ -109,6 +109,7 @@ Tools for generating videos from text, images, or other inputs using AI.
 | **[Pixverse](https://pixverse.ai)** | AI video creation platform with text-to-video, image-to-video, and video style transfer capabilities. | Free tier available | [Website](https://pixverse.ai) |
 | **[Haiper](https://haiper.ai)** | AI video generation with perceptual foundation models, supporting text-to-video and video animation. | Free tier available | [Website](https://haiper.ai) |
 | **[Genmo Mochi](https://www.genmo.ai)** | Open-source video generation with Mochi 1 model, supporting high-quality text-to-video synthesis. | Free tier + paid plans | [GitHub](https://github.com/genmoai/mochi) |
+| **[ShortSmash](https://github.com/abicevoice1-sudo/shortsmash)** | Open-source prompt-to-published short video pipeline: AI script, 50-language neural dubbing, karaoke captions, Veo 3.1/Kling/Agnes visuals, 1-click publish to 10 platforms. | Free, open source (MIT) | [GitHub](https://github.com/abicevoice1-sudo/shortsmash) |
 
 ## Video Editing & Clipping
 
