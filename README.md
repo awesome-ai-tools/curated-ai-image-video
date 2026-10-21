@@ -126,6 +126,7 @@ AI-powered tools for editing, clipping, and repurposing video content.
 | **[Riverside](https://riverside.fm)** | High-quality recording and AI editing platform for podcasts and video, with automatic transcription and clip creation. | Free tier + from $15/mo | [Website](https://riverside.fm) |
 | **[Veed.io](https://www.veed.io)** | Online video editor with AI subtitles, text-to-speech, background removal, and one-click video creation tools. | Free tier + from $18/mo | [Website](https://www.veed.io) |
 | **[InVideo AI](https://invideo.io)** | AI-powered video creation platform that generates ready-to-publish videos from text prompts with stock footage and voiceover. | Free tier + from $25/mo | [Website](https://invideo.io) |
+| **[ShortSmash](https://github.com/hydope/shortsmash)** | Open-source pipeline that turns one prompt into a publish-ready short video: AI script, neural voiceover in 50 languages, AI-verified stock footage, karaoke captions, and one-click publishing to 10 platforms. | Free (open source) | [GitHub](https://github.com/hydope/shortsmash) |
 
 ## Image Generation
 
