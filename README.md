@@ -91,6 +91,7 @@
 
 ## Video Generation
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 Tools for generating videos from text, images, or other inputs using AI.
 
 | Tool | Description | Pricing | Links |
