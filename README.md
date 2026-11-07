@@ -100,6 +100,7 @@ Tools for generating videos from text, images, or other inputs using AI.
 | **[Kling AI](https://klingai.com)** | Kuaishou's advanced text-to-video and image-to-video model producing high-quality cinematic clips up to 2 minutes. | Free tier available | [Demo](https://klingai.com) |
 | **[Pika](https://pika.art)** | Creative AI video platform for generating and editing videos from text and images with style control. | Free tier + Pika Pro from $8/mo | [Discord](https://discord.gg/pika) |
 | **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** | Fast, high-quality video generation from text and images with realistic physics and motion. | Free tier + paid plans | [API](https://docs.lumalabs.ai/) |
+| **[Motionflare](https://motionflare.ai)** | AI tool that turns a product page URL into a share-ready promo video for founders and marketers. Paste a URL → get a product promo video. | Freemium | [Website](https://motionflare.ai) |
 | **[Vidu](https://www.vidu.studio)** | AI video generation platform by Shengshu Technology, known for consistent character generation and multi-scene composition. | Free tier available | [Website](https://www.vidu.studio) |
 | **[Hailuo AI (MiniMax)](https://hailuoai.video)** | MiniMax's video generation model with strong motion quality and text adherence for short-form video content. | Free tier available | [Website](https://hailuoai.video) |
 | **[Synthesia](https://www.synthesia.io)** | Enterprise AI video platform with realistic AI avatars, 140+ languages, and custom avatar creation. | From $22/mo | [API](https://docs.synthesia.io/) |
@@ -245,6 +246,7 @@ AI tools for improving image and video quality, resolution, and detail.
 
 > New tools and updates added in 2026:
 
+- **Motionflare** - Paste a product URL to get a share-ready promo video ([Website](https://motionflare.ai))
 - **Ssemble MCP Server** - Programmatic AI video clipping via Model Context Protocol ([npm](https://www.npmjs.com/package/@ssemble/mcp-server))
 - **FLUX.1 Kontext** - Black Forest Labs' latest model for text-guided image editing and generation
 - **Veo 2** - Google DeepMind's video generation model with 1080p output
