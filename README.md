@@ -108,6 +108,7 @@ Tools for generating videos from text, images, or other inputs using AI.
 | **[Veo 2](https://deepmind.google/technologies/veo/)** | Google DeepMind's video generation model available through Vertex AI, producing high-fidelity 1080p videos. | Via Google Cloud | [Blog](https://blog.google/technology/google-labs/veo-2/) |
 | **[Pixverse](https://pixverse.ai)** | AI video creation platform with text-to-video, image-to-video, and video style transfer capabilities. | Free tier available | [Website](https://pixverse.ai) |
 | **[Haiper](https://haiper.ai)** | AI video generation with perceptual foundation models, supporting text-to-video and video animation. | Free tier available | [Website](https://haiper.ai) |
+| **[Fancy Cafe AI](https://aifancycafe.video/)** | Turns one photo or two selfies into a 15-second cafe meme video, with 480p or 720p export in portrait or landscape format. | Paid credits from $8.90 | [Pricing](https://aifancycafe.video/pricing) |
 | **[Genmo Mochi](https://www.genmo.ai)** | Open-source video generation with Mochi 1 model, supporting high-quality text-to-video synthesis. | Free tier + paid plans | [GitHub](https://github.com/genmoai/mochi) |
 
 ## Video Editing & Clipping
