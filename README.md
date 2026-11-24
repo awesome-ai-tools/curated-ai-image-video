@@ -159,6 +159,7 @@ AI-powered tools for editing, enhancing, and manipulating existing images.
 | **[Magnific AI](https://magnific.ai)** | AI image upscaler and enhancer that adds realistic detail and texture when scaling images up to 16x resolution. | From $39/mo | [Website](https://magnific.ai) |
 | **[Photoroom](https://www.photoroom.com)** | AI-powered photo editor specializing in product photography with background removal, shadow generation, and scene creation. | Free tier + from $12.99/mo | [API](https://www.photoroom.com/api) |
 | **[Pixlr](https://pixlr.com)** | Online photo editor with AI-powered tools including background removal, object removal, and batch editing. | Free tier + from $4.90/mo | [Website](https://pixlr.com) |
+| **[Reletter](https://aiedittextinimage.com/)** | Edit individual text regions in screenshots, menus, or product photos, with optional AI redraw for textured backgrounds. | Free Standard previews, one-time credits from $4.99 for clean PNGs and Pro | [Website](https://aiedittextinimage.com/) |
 | **[Luminar Neo](https://skylum.com/luminar)** | AI-powered photo editor with sky replacement, portrait retouching, object removal, and generative AI tools. | From $9.95/mo | [Website](https://skylum.com/luminar) |
 
 ## Open Source Models
