@@ -96,6 +96,7 @@ Tools for generating videos from text, images, or other inputs using AI.
 | Tool | Description | Pricing | Links |
 |------|-------------|---------|-------|
 | **[Sora](https://openai.com/sora)** | OpenAI's text-to-video and image-to-video model. Generates realistic and imaginative scenes from text instructions up to 1080p resolution. | Included with ChatGPT Plus/Pro | [Blog](https://openai.com/index/sora/) |
+| **[RapVideoLab](https://rapvideolab.com/)** | Generates short rap performances from topics or lyrics with generated vocals and beats. Supports solo, duo, and battle formats. | Paid video generation; credit packs from $9.90 | [Pricing](https://rapvideolab.com/pricing) |
 | **[Runway Gen-3 Alpha](https://runwayml.com)** | State-of-the-art video generation with fine-grained temporal control, text-to-video, and image-to-video capabilities. | Free tier + paid plans from $12/mo | [Docs](https://docs.runwayml.com/) &bull; [Research](https://research.runwayml.com/) |
 | **[Kling AI](https://klingai.com)** | Kuaishou's advanced text-to-video and image-to-video model producing high-quality cinematic clips up to 2 minutes. | Free tier available | [Demo](https://klingai.com) |
 | **[Pika](https://pika.art)** | Creative AI video platform for generating and editing videos from text and images with style control. | Free tier + Pika Pro from $8/mo | [Discord](https://discord.gg/pika) |
@@ -108,6 +109,7 @@ Tools for generating videos from text, images, or other inputs using AI.
 | **[Veo 2](https://deepmind.google/technologies/veo/)** | Google DeepMind's video generation model available through Vertex AI, producing high-fidelity 1080p videos. | Via Google Cloud | [Blog](https://blog.google/technology/google-labs/veo-2/) |
 | **[Pixverse](https://pixverse.ai)** | AI video creation platform with text-to-video, image-to-video, and video style transfer capabilities. | Free tier available | [Website](https://pixverse.ai) |
 | **[Haiper](https://haiper.ai)** | AI video generation with perceptual foundation models, supporting text-to-video and video animation. | Free tier available | [Website](https://haiper.ai) |
+| **[Genjutsu AI](https://genjutsuaimaker.com/)** | Turns authorized portraits into short dance clips and skits using preset scenes. Each template shows the required participants and output options. | Paid generation, one-time credits from $9.99 | [Pricing](https://genjutsuaimaker.com/pricing) |
 | **[Genmo Mochi](https://www.genmo.ai)** | Open-source video generation with Mochi 1 model, supporting high-quality text-to-video synthesis. | Free tier + paid plans | [GitHub](https://github.com/genmoai/mochi) |
 
 ## Video Editing & Clipping
